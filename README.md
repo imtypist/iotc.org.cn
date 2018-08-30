@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="http://iotc.org.cn">
-        <img src="img/iotc.png" width="300" height="300"/>
+        <img src="img/logo_blue.svg" width="300"/>
     </a>
 </p>
 
